@@ -1,0 +1,13 @@
+{
+  "name": "@sssservices/build",
+  "version": "0.0.2",
+  "description":
+    "[READ ONLY] Subtree split of the Sssservices Build component (see @sssservices/framework)",
+  "main": "repository.js",
+  "repository": "https://github.com/sssservices/build",
+  "author": "Wilson Lewis <wilsonlewis@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@sssservices/support": "^0.0.1"
+  }
+}
